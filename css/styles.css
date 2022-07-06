@@ -234,6 +234,7 @@ li {
 }
 .middle {
   padding-top: 0;
+  padding-bottom: 0;
 }
 .middle-title {
   color: var(--title-text-color);
